@@ -2,7 +2,7 @@
 
 # *Python-Challenge-2*
 
-## *Utilize python, pandas, numpy, and seaborn libraries to perform financial stock and portfolio analysis*
+## *Utilize python, pandas to perform stock and portfolio financial analysis*
 
 `Background`
 
