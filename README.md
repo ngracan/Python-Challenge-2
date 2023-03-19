@@ -1,4 +1,4 @@
-![]()
+![](portfolio-analysis.png)
 
 # *Python-Challenge-2*
 
@@ -16,11 +16,11 @@ You need to create a tool (an analysis notebook) that analyses and visualises th
 
 ---------
 
-#Determine whether the algorithmic strategies outperform both the market (S&P TSX 60) and the whales portfolios.
+### Determine whether the algorithmic strategies outperform both the market (S&P TSX 60) and the whales portfolios.
 
 The Algorithmic strategies, particularily portfolio 1, significantly outperforms both the S&P TSX 60 and all Whale portfolios based on visuals seen in analysis performed above including the cumulative returns and sharpe ratio metric graphics. Algorithmic portfolio 2, also shows strong performance versus the S&P TSX 60 and the majority of of whale portfolios, except for the Berkshire Hathaway portfolio which suggests it could be a better investment option based on its slightly higher sharpe ratio that can be viewed in the graph. The Algorithmic portfolios sharpe ratios of ~1.49 and ~0.39 respectivley, in comparison to the other portfolios tells us that the return-to-risk ratio of the Algo portfolios is much greater than that of the comparison portfolios - and that is a key indicator all investors must keep in mind when analyzing potiential investments.
 
-#How does your portfolio do?
+### How does your portfolio do?
 
 
 Based on the shape ratio analysis metrics, my custom portfolio has the second highest sharpe ratio of the group of portfolios which suggests it has one of the highest risk-to-return ratios of the group. Algorithmic portfolio 1 in particular still has the highest sharpe ratio and indicates it is still the strongest performing portfolio of the group even after the inclusion of my custom portfolio. However, the sharpe ratio analysis also suggests that my custom portfolio does out perform all other portfolios, inlcuding out performing the S&P TSX. I believe the custom is a portfolio that would be worth investing in based on the metrics and analysis conducted above. 
